@@ -1,0 +1,1531 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Schema name="Jalan_Semarang_1" id="Jalan_Semarang_1">
+            <SimpleField type="string" name="NAMRJL"/>
+            <SimpleField type="int" name="KONRJL"/>
+            <SimpleField type="int" name="MATRJL"/>
+            <SimpleField type="int" name="FGSRJL"/>
+            <SimpleField type="int" name="UTKRJL"/>
+            <SimpleField type="int" name="TOLRJL"/>
+            <SimpleField type="int" name="WLYRJL"/>
+            <SimpleField type="int" name="AUTRJL"/>
+            <SimpleField type="int" name="KLSRJL"/>
+            <SimpleField type="int" name="SPCRJL"/>
+            <SimpleField type="int" name="JPARJL"/>
+            <SimpleField type="int" name="ARHRJL"/>
+            <SimpleField type="int" name="STARJL"/>
+            <SimpleField type="string" name="KLLRJL"/>
+            <SimpleField type="int" name="MEDRJL"/>
+            <SimpleField type="int" name="LOCRJL"/>
+            <SimpleField type="int" name="JARRJL"/>
+            <SimpleField type="string" name="FCODE"/>
+            <SimpleField type="string" name="REMARK"/>
+            <SimpleField type="string" name="SRS_ID"/>
+            <SimpleField type="double" name="SHAPE_Leng"/>
+        </Schema>
+        <Folder>
+            <name>Jalan_Semarang</name>
+            <Placemark id="Jalan_Semarang.1">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20114</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lokal</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">3.98001840714E-4</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.42273823700003,-7.047402881999915,238.92999999999302 110.42271717100006,-7.04745173799996,239.25 110.42255901200012,-7.047758121999998,239.83000000000175</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.2">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20114</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lokal</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">7.59466855493E-4</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.37873595500008,-6.986951569999928,4.380000000004657 110.37877631500005,-6.986813145999932,4.539999999993597 110.37880927600003,-6.9866565139999395,4.509999999994761 110.37885434000012,-6.986582417999937,3.9900000000052387 110.37921080800012,-6.986489049999939,3.8300000000017462</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.3">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20114</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lokal</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">3.8254899512E-4</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.46081377200005,-6.977133549999909,2.9389999999984866 110.46082431000012,-6.977078084999938,2.679999999993015 110.4609143100001,-6.97676465899994,2.7179999999934807</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.4">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20114</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lokal</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">0.00131833877657</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.47853525800012,-7.01990419099991,18.8920000000071 110.47889895200011,-7.020317290999895,18.479999999995925 110.47940001300009,-7.020899260999997,19.289999999993597</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.5">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20114</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lokal</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">0.00193098264875</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.40412808200006,-6.993691238999972,6.690000000002328 110.40461431200005,-6.993039528999962,7.369999999995343 110.40477317000006,-6.992866743999965,7.139999999999418 110.40492960400012,-6.992698703999917,7.30000000000291 110.40523559900004,-6.992320943999925,6.720000000001164 110.40535409200007,-6.992202651999996,6.745999999999185</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.6">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20114</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lokal</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">5.66429428055E-4</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.3916358260001,-6.984943800999982,2.4569999999948777 110.39163489800012,-6.9849263869999625,2.4499999999970896 110.39160718900013,-6.984378095999983,2.4499999999970896</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.7">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20114</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lokal</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">7.14255763803E-4</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.3791847360001,-7.012416501999969,69.67600000000675 110.37921786600008,-7.0117030149999096,70.47000000000116</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.8">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20114</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lokal</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">0.00302838604726</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.30523778000008,-7.0575551209999645,231.45100000000093 110.30523599600012,-7.057555352999984,231.4499999999971 110.30491941800013,-7.057637311999926,229.46799999999348 110.3047441420001,-7.0576826929999505,228.36999999999534 110.30473290100015,-7.057685606999925,228.3000000000029 110.30441893300011,-7.057827142000001,227.12799999999697 110.30367230500015,-7.058163724999961,224.3399999999965 110.30358305300014,-7.058214797000012,224.83900000000722 110.30338663200014,-7.058382673999958,226.55199999999604 110.30334335200011,-7.058419631999907,226.92900000000373 110.30330073400013,-7.058456020999987,227.3000000000029 110.30312409900009,-7.058622217999972,228.92999999999302 110.30285283700012,-7.058849572999954,233.0899999999965 110.3027014070001,-7.0589926059999755,235.25999999999476 110.30266464900008,-7.059045700999928,235.9890000000014</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.9">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20116</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lain</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">5.20005116793E-4</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.44718335700007,-7.0174980779999565,53.88999999999942 110.44719723400006,-7.017531345999956,53.88999999999942 110.44737431800014,-7.017981743000007,52.820000000006985</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.10">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20114</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lokal</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">4.90353884379E-4</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.39276633200012,-7.000231009999997,37.0 110.39278406900007,-7.0001807579999245,37.61999999999534 110.39280121800007,-7.000066951999923,44.029999999998836 110.3928005430001,-7.000000448999927,45.21400000000722 110.3928004230001,-6.9999883099999884,45.429999999993015 110.39282098900011,-6.999745853999912,50.080000000001746</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.11">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20114</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lokal</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">2.65221129993E-4</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.41381786100013,-6.960895955999952,0.8739999999961583 110.41370622100013,-6.960797239999955,0.7299999999959255 110.41361215900015,-6.960729019999906,0.6530000000057044</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.12">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20116</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lain</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">1.92101616257E-4</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.37396532800007,-6.998442002999944,29.35000000000582 110.37409226100009,-6.998586193999973,28.2670000000071</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.13">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20114</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lokal</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">4.03532638825E-4</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.4083687850001,-7.091138824999938,333.3600000000006 110.40843758300011,-7.091140332999974,333.47000000000116 110.40877196900007,-7.0911552399999636,331.42200000000594</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.14">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20114</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lokal</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">4.82365811682E-4</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.38564123600007,-6.97575120099993,0.8800000000046566 110.38543825500005,-6.975632594999976,0.8800000000046566 110.38523095800014,-6.975497791999924,0.8680000000022119</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.15">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20114</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lokal</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">0.00102873539387</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.46965693400006,-7.035684466999953,24.20900000000256 110.46951016300008,-7.035656675999963,23.919999999998254 110.46915073300009,-7.0355933479999635,24.020000000004075 110.46881303400012,-7.035505077999943,23.820000000006985 110.46866163200012,-7.035448216999946,24.110000000000582 110.4686580840001,-7.035447507999976,24.104000000006636</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.16">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20114</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lokal</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">5.94836185569E-4</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.41274611900009,-7.053152090999987,231.38899999999558 110.41300544100005,-7.052651793999981,232.57000000000698 110.4130178180001,-7.05262301799991,231.7109999999957</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.17">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20114</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lokal</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">0.00220299141053</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.40684350500011,-6.978641920999923,2.2400000000052387 110.40684196100007,-6.977761483999906,2.039999999993597 110.40681428700009,-6.977796382999951,1.9799999999959255 110.40641053900008,-6.977845634999941,2.039999999993597 110.4064065030001,-6.977808615999987,2.039999999993597 110.40636540600008,-6.977590097000025,2.039999999993597 110.40629534400006,-6.977555608999925,2.039999999993597 110.40616136500007,-6.977560342999961,2.039999999993597 110.40576267100012,-6.977586190999968,2.139999999999418</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.18">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20114</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lokal</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">5.9740498062E-4</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.46680590400014,-6.950400245999994,1.8779999999969732 110.4672604660001,-6.9505665179999845,1.7899999999935972 110.46736929500004,-6.950598344999953,1.4600000000064028</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.19">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20114</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lokal</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">3.77005636478E-4</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.43095463900005,-7.028177598999935,112.7899999999936 110.43058021400006,-7.028133562999933,112.7899999999936</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.20">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20114</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lokal</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">0.00116313121926</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.41675222800008,-7.074011930999941,235.42999999999302 110.41672259000012,-7.074013386999972,235.6999999999971 110.41624293800004,-7.0739727779999875,239.97000000000116 110.41561171900004,-7.073809121999947,241.50599999999395</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.21">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20116</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lain</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">0.0116824090905</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.33793253600005,-7.044767815999936,212.13000000000466 110.33761842100009,-7.044642499999959,217.61000000000058 110.33660700500016,-7.044213021999951,223.52999999999884 110.33644254300005,-7.044132989999902,223.55999999999767 110.33624281900013,-7.044095140999968,223.75999999999476 110.33615026800011,-7.044363348999955,224.88300000000163 110.3359441150001,-7.044962012999928,227.4100000000035 110.33583613700006,-7.045286252999933,225.5500000000029 110.33577097200008,-7.045625514999937,223.44000000000233 110.33577506600007,-7.046152158999902,220.38999999999942 110.33582653600016,-7.046433696999927,219.42999999999302 110.3360587860001,-7.047181778999917,216.36000000000058 110.3365344670001,-7.048502388999939,215.4600000000064 110.33663837900009,-7.048955961999987,215.39999999999418 110.33666044500013,-7.049324419000008,215.39999999999418 110.33668953100006,-7.049607707,215.42999999999302 110.33686711200009,-7.050447086999995,216.77999999999884 110.33707042600004,-7.051374804999927,217.596000000005 110.33716842700007,-7.051822018999982,217.99000000000524 110.33717434800012,-7.051949449999956,218.6999999999971 110.33719622800005,-7.0522518669999315,219.97999999999593 110.33721203300013,-7.052496059999974,219.9499999999971 110.33716253200011,-7.053013175999951,219.30999999999767 110.33713733000008,-7.053200623000006,219.17999999999302 110.3370722330001,-7.05352974499997,217.8000000000029 110.33700797100012,-7.0536663289999915,217.6999999999971</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.22">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20114</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lokal</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">9.96112620854E-4</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.49350358600005,-7.029717876999925,17.95799999999872 110.49310023700015,-7.029561168999926,17.929999999993015 110.4925660540001,-7.029382120999944,18.42500000000291</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.23">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20114</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lokal</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">9.32855261359E-4</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.39511823700012,-7.0086311929999425,11.470000000001164 110.39478198000009,-7.008815061999968,11.110000000000582 110.39457776300007,-7.00887018399991,11.14999999999418 110.39428236100014,-7.008923488999969,11.110000000000582 110.39424451400004,-7.008925709999975,11.14999999999418</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.24">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20114</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lokal</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">4.8983548488E-4</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.36329313000007,-6.996297281999947,31.39999999999418 110.36330936700008,-6.996307253999973,31.39999999999418 110.36377012400011,-6.996403884999975,27.30000000000291</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.25">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20114</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lokal</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">6.14530588621E-4</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.45247395200012,-6.995957189999963,6.225999999995111 110.45253957700004,-6.99623075899995,6.25 110.4526176650001,-6.996554679999928,6.422000000005937</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.26">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20114</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lokal</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">0.00210484882798</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.41284647700013,-7.103399787999937,349.6070000000036 110.41272676900009,-7.103611353999945,350.77999999999884 110.41221512300011,-7.104574571999972,352.08000000000175 110.4122815340001,-7.10511031899998,350.1100000000006 110.41232695800014,-7.105337056,350.16300000000047</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.27">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20114</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lokal</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">3.2057657622E-4</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.45654622100008,-6.983935296999938,3.448000000003958 110.45645957100011,-6.984243940999985,3.5010000000038417</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.28">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20114</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lokal</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">2.90777587752E-4</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.35285558500004,-6.978024942999944,1.8399999999965075 110.3527477400001,-6.978294981999905,1.7100000000064028</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.29">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20116</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lain</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">0.00158598319283</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.30474803900007,-7.0629256029999645,239.9499999999971 110.30453280100011,-7.063112365999963,240.38999999999942 110.30438897400012,-7.063172021999925,240.63999999999942 110.30404083700009,-7.06323613999999,240.95100000000093 110.3037071740001,-7.063297584999923,241.42999999999302 110.30352085200013,-7.063286496999982,240.6999999999971 110.30341656300004,-7.0632083169999085,240.1999999999971 110.30330095300015,-7.063138513999995,238.70799999999872</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.30">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20114</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lokal</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">6.92014518529E-4</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.47347642000007,-7.033655250999921,26.69999999999709 110.47412025900013,-7.033835745999934,27.789999999993597 110.47414267900012,-7.033842283999942,27.823000000003958</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.31">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20114</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lokal</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">6.01724199837E-4</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.45797770400004,-7.03548847199999,39.903000000005704 110.45797365100006,-7.035266660999934,40.00999999999476 110.45790998000012,-7.035003632999931,40.169999999998254 110.45787353200014,-7.0349224159999615,39.10000000000582 110.45785336700006,-7.034924047999919,39.330000000001746</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.32">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20114</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lokal</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">0.00160614395714</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.40541945000014,-6.972532219999955,1.2690000000002328 110.40545629800009,-6.972515269999974,1.139999999999418 110.40581032200006,-6.972416910999918,1.110000000000582 110.40628150600006,-6.972312882999926,1.139999999999418 110.40698127500013,-6.9721630999999675,1.3699999999953434</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.33">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20114</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lokal</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">0.00188781493522</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.41985489800011,-7.014659750999947,97.27999999999884 110.41993481000007,-7.014663712000008,97.41000000000349 110.42029413900013,-7.014604644999917,98.72999999999593 110.42039216800008,-7.014593495999971,98.83000000000175 110.42081033700003,-7.014732000999974,101.52999999999884 110.42166644000008,-7.015023850999963,104.33999999999651</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.34">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20114</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lokal</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">0.00102058278394</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.4582692730001,-6.993003919999946,5.9980000000068685 110.45813866300013,-6.99326981899992,6.119999999995343 110.4579804040001,-6.993583083999905,6.149999999994179 110.4581931270001,-6.993639220999931,6.419999999998254 110.45834143800012,-6.993678250999963,5.724000000001979</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.35">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20116</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lain</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">0.00278544163013</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.29116210300005,-7.008542554999892,121.09500000000116 110.29128631900011,-7.009048409999913,122.82000000000698 110.2913119520001,-7.009208305999998,123.08000000000175 110.2914536190001,-7.01015426799993,128.3000000000029 110.29160387800009,-7.010363412999915,130.60000000000582 110.2917821170001,-7.010569009999962,133.5500000000029 110.29182663400013,-7.0107539719999,133.4499999999971 110.29177042900011,-7.010862837999937,133.22999999999593 110.29156227500012,-7.011066838999941,133.0 110.29155104100008,-7.011071768999994,132.89400000000023</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.36">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20114</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lokal</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">1.87720058581E-4</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.38311407300013,-6.987437913999933,4.017999999996391 110.38328683500004,-6.9875113449999695,3.789999999993597</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.37">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20114</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lokal</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">2.17414145304E-4</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.38851049700006,-7.021949826999968,19.50999999999476 110.38858770100015,-7.02191967099996,19.25999999999476 110.38870714600007,-7.02185777499999,18.69100000000617</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.38">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20114</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lokal</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">0.00469708994382</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.40920852900013,-6.9991681929999885,29.970000000001164 110.40901027900007,-6.999895797999972,33.94000000000233 110.40899402300005,-7.000000280999913,34.729000000006636 110.40897712000007,-7.000108976999936,35.55000000000291 110.40897792900006,-7.000609564999966,39.74000000000524 110.40907328600012,-7.001201422999998,43.229999999995925 110.40904728900011,-7.001485725999984,47.89999999999418 110.4089623070001,-7.0016858229999315,50.63999999999942 110.40882259600008,-7.002051989999941,55.2899999999936 110.40878804700006,-7.002240083999961,59.580000000001746 110.4088850620001,-7.002693945999944,62.669999999998254 110.40894991800013,-7.0030701299998945,68.80000000000291 110.40896213100008,-7.0031199319999295,70.32000000000698 110.40901579000008,-7.003379206999888,74.22000000000116 110.40907705100008,-7.00374170999995,80.35000000000582 110.40907917300008,-7.003753072999913,80.60000000000582</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.39">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20116</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lain</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">0.00100184191142</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.45009838800011,-6.989775661000003,4.577999999994063 110.45011173500006,-6.988773907999985,4.320000000006985</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.40">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20114</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lokal</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">3.09220218867E-4</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.47265735200006,-7.0334474569999585,31.570000000006985 110.47260750100003,-7.033422281000007,31.99000000000524 110.4723658440001,-7.033346125999923,32.35000000000582</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.41">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20114</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lokal</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">0.00113511732561</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.37882382700008,-6.989061075999942,21.145999999993364 110.37886003400014,-6.988927874999934,21.25 110.37893771200008,-6.988507381999959,20.630000000004657 110.37905029000007,-6.987949144999956,14.320000000006985</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.42">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20114</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lokal</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">3.64140906864E-4</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.42638491200013,-6.984575031999935,2.9769999999989523 110.42635627000007,-6.984343150999933,3.0800000000017462 110.42631989300008,-6.984217825999956,3.096000000005006</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.43">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20116</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lain</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">7.43273532941E-4</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.30772956800011,-6.9711113819999895,3.8500000000058208 110.30814716600003,-6.971165433999932,1.6539999999949941 110.30822685900014,-6.971175744999986,4.240000000005239 110.30846665200008,-6.971207102999916,4.452999999994063</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.44">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20114</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lokal</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">0.00187470619623</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.43769264900004,-6.952584732999906,1.3940000000002328 110.43864845000007,-6.952312221000007,0.8200000000069849 110.43949917000003,-6.952083940999948,1.4499999999970896</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.45">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20114</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lokal</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">2.85188229528E-4</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.46219209500005,-7.03568669799996,31.914999999993597 110.46219400900003,-7.035683678999977,31.89999999999418 110.46219631400004,-7.035679276999968,31.74000000000524 110.46228600000009,-7.035541200000001,30.289999999993597 110.46236203600007,-7.035462291999956,29.220000000001164 110.46236325200009,-7.0354602039999605,29.202000000004773</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.46">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20114</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lokal</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">9.13508023498E-4</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.44004202400009,-7.008102135999955,9.30000000000291 110.43977343700008,-7.008015611999991,9.30000000000291 110.43924128500011,-7.007867317999889,9.559999999997672 110.43920888500008,-7.007857772999987,9.110000000000582 110.43916497000009,-7.007847399999928,9.111999999993714</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.47">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20114</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lokal</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">0.00115428657579</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.42830719900012,-6.974421910999901,2.7599999999947613 110.42831909500012,-6.974354318999993,2.6300000000046566 110.4282973750001,-6.973729381999977,2.5 110.42825699700013,-6.973350198999956,2.110000000000582 110.42824458100009,-6.973272165999983,2.0869999999995343</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.48">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20116</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lain</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">4.02034721992E-4</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.36968526900006,-6.989293728999918,8.427999999999884 110.36982776600011,-6.989285940999984,7.25 110.37008690400006,-6.989276092999969,7.25</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.49">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20114</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lokal</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">4.3913731456E-4</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.37740463200007,-6.993508186999925,12.85000000000582 110.37723476200013,-6.993177314999905,12.0 110.3772033000001,-6.993117926999965,12.327000000004773</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan_Semarang.50">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan_Semarang_1">
+                        <SimpleData name="NAMRJL"></SimpleData>
+                        <SimpleData name="KONRJL">0</SimpleData>
+                        <SimpleData name="MATRJL">0</SimpleData>
+                        <SimpleData name="FGSRJL">0</SimpleData>
+                        <SimpleData name="UTKRJL">0</SimpleData>
+                        <SimpleData name="TOLRJL">0</SimpleData>
+                        <SimpleData name="WLYRJL">0</SimpleData>
+                        <SimpleData name="AUTRJL">0</SimpleData>
+                        <SimpleData name="KLSRJL">0</SimpleData>
+                        <SimpleData name="SPCRJL">0</SimpleData>
+                        <SimpleData name="JPARJL">0</SimpleData>
+                        <SimpleData name="ARHRJL">0</SimpleData>
+                        <SimpleData name="STARJL">0</SimpleData>
+                        <SimpleData name="KLLRJL"></SimpleData>
+                        <SimpleData name="MEDRJL">0</SimpleData>
+                        <SimpleData name="LOCRJL">0</SimpleData>
+                        <SimpleData name="JARRJL">0</SimpleData>
+                        <SimpleData name="FCODE">20114</SimpleData>
+                        <SimpleData name="REMARK">Jalan Lokal</SimpleData>
+                        <SimpleData name="SRS_ID"></SimpleData>
+                        <SimpleData name="SHAPE_Leng">8.89301815241E-4</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>110.42797590000005,-7.007487653000005,27.220000000001164 110.42795028400016,-7.007476069999935,27.985000000000582 110.42790380500004,-7.007430487999983,26.380000000004657 110.42772277900008,-7.007401683999998,23.24000000000524 110.42757651200004,-7.007378420999938,21.864000000001397 110.42752300700006,-7.007369907999944,21.360000000000582 110.42721970400011,-7.0072237879999335,20.970000000001164 110.42714638100007,-7.007215095999925,20.74000000000524</coordinates>
+                </LineString>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
